@@ -16,17 +16,19 @@ The core of the ``zc.buildout`` recipes for GroupServer
 Introduction
 ============
 
+This product supplies the ``gs.recipe.base.Recipe`` **abstract**
+base class.
 
 Acknowledgements
 ================
 
-Many thanks to the ``collective.recipe.updateplone`` [#update]_ authors for
-inspiring this product.
+Many thanks to the ``collective.recipe.updateplone`` [#update]_
+authors for inspiring this product.
 
 Resources
 =========
 
-- Code repository: https://source.iopen.net/groupserver/gs.group.recipe.setupgs
+- Code repository: https://source.iopen.net/groupserver/gs.group.recipe.base
 - Questions and comments to http://groupserver.org/groups/development
 - Report bugs at https://redmine.iopen.net/projects/groupserver
 
