@@ -28,7 +28,7 @@ with codecs.open(os.path.join("docs", "HISTORY.txt"), encoding='utf-8') as f:
 # entry_point = 'gs.recipe.setupgs:Recipe'
 # entry_points = {"zc.buildout": ["default = %s" % entry_point]}
 
-tests_require = ['zope.testing', 'zc.buildout', 'mock']
+tests_require = ['mock']
 
 setup(name='gs.recipe.base',
       version=version,
@@ -63,7 +63,6 @@ setup(name='gs.recipe.base',
       zip_safe=False,
       install_requires=[
         'setuptools',
-        'zc.buildout',
         ],
       tests_require=tests_require,
       extras_require=dict(tests=tests_require),
