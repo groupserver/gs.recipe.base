@@ -1,0 +1,7 @@
+recursive-include gs *
+recursive-include docs *
+include version.py
+include bootstrap.py
+include buildout.cfg
+include *.txt
+include tox.ini
