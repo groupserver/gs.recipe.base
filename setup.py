@@ -32,7 +32,7 @@ tests_require = ['zope.testing', 'zc.buildout', 'mock']
 
 setup(name='gs.recipe.base',
       version=version,
-      description="Setup GroupServer instance in Zope",
+      description="The core of the ``zc.buildout`` recipes for GroupServer",
       long_description=long_description,
       classifiers=[
         'Development Status :: 5 - Production/Stable',
