@@ -14,7 +14,7 @@
 ##############################################################################
 from __future__ import absolute_import, unicode_literals
 from unittest import TestSuite, main as unittest_main
-from gs.recipe.postfix.tests.scriptcore import TestRecipe
+from gs.recipe.base.tests.scriptcore import TestRecipe
 testCases = (TestRecipe, )
 
 
