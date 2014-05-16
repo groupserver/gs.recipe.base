@@ -17,7 +17,8 @@ Introduction
 ============
 
 This product supplies the ``gs.recipe.base.Recipe`` **abstract**
-base class.
+base class. See the ``docs`` folder for the *Sphinx*
+documentation.
 
 Acknowledgements
 ================

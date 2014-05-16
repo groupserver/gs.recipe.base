@@ -1,5 +1,8 @@
-0.1 (xxxx-xx-xx)
+Changelog
+=========
+
+1.0 (2014-05-15)
 ----------------
 
-- Created recipe with ZopeSkel
-  [Richard Waid]
+- Initial version.
+- Forked off ``gs.recipe.setupgs``
