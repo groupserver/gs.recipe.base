@@ -58,7 +58,7 @@ from the signature of the ``__init__``.
                                      'var', configFile)
 
         # suppress script generation
-        self.options['scripts'] = ''
+        # self.options['scripts'] = ''
         self.options['bin-directory'] = buildout['buildout']['bin-directory']
 
     def display_skipped_message(self):
