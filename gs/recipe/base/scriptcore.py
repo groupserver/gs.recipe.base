@@ -63,14 +63,11 @@ from the signature of the ``__init__``.
 
     def display_skipped_message(self):
         'Display the message that the installation recipe has been skipped.'
-        m = '''
-------------------------------------------------------------
+        m = '''*Skipped* *{0}*
 
-*Skipped* *{0}*
-
-The setup script {0} has already been run. To run
-it again set the "run-once" option to "false", or delete
-the file
+  The setup script {0} has already been
+  run. To run it again set the "run-once" option to "false",
+  or delete the file
     {1}
 
 ------------------------------------------------------------\n\n'''
