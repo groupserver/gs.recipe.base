@@ -29,7 +29,8 @@ authors for inspiring this product.
 Resources
 =========
 
-- Code repository: https://source.iopen.net/groupserver/gs.group.recipe.base
+- Documentation: http://gsrecipebase.readthedocs.org/
+- Code repository: https://github.com/groupserver/gs.group.recipe.base
 - Questions and comments to http://groupserver.org/groups/development
 - Report bugs at https://redmine.iopen.net/projects/groupserver
 
